@@ -1,0 +1,4 @@
+#Add server or computer host names below you would like to check if Java exists and or Java versions
+
+#ServerName
+#ServerName
